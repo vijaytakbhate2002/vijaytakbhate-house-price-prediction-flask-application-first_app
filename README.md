@@ -41,7 +41,7 @@ You should run the GitHub repository to create the Docker image before executing
 Contributions are welcome! Fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## Acknowledgements
 - I used a SQL server for storing information in three columns: id, area, and predicted_price.
